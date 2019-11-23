@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">LATIKA</string>
+    <string name="keluar">keluar</string>
+    <string name="latihan">latihan</string>
+    <string name="materi">materi</string>
+    <string name="gambar">gambar</string>
+    <string name="mulai">MULAI</string>
+    <string name="are_you_ready">ARE YOU READY!!!</string>
+    <string name="pertanyaan_kuis">Pertanyaan Kuis</string>
+    <string name="pilihan_a">Pilihan A</string>
+    <string name="pilihan_b">Pilihan B</string>
+    <string name="pilihan_c">Pilihan C</string>
+    <string name="pilihan_d">Pilihan D</string>
+    <string name="hasil_jawaban">Hasil Jawaban</string>
+    <string name="_100">100</string>
+    <string name="ulangi_kuis">Ulangi Kuis</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="latiika">LATIIKA</string>
+    <string name="latika">LATIKA</string>
+    <string name="register">REGISTER</string>
+    <string name="sign_in">SIGN IN</string>
+</resources>

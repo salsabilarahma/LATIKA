@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back"
+    android:orientation="vertical"
+    tools:context=".LayoutActivity">
+
+    <RelativeLayout
+        android:layout_weight="2"
+        android:layout_width="match_parent"
+        android:layout_height="0dp">
+
+        <TextView
+            android:id="@+id/textGrid"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/latika"
+            android:textColor="@color/white"
+            android:textSize="50sp"
+            android:layout_marginLeft="120dp"
+            android:layout_marginTop="70dp"/>
+
+        <ImageButton
+            android:id="@+id/buttonperkalian"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:background="@color/white"
+            android:layout_marginLeft="30dp"
+            android:layout_marginTop="280dp"
+            android:src="@drawable/perkaliann" />
+
+        <ImageButton
+            android:id="@+id/buttonbangundatar"
+            android:layout_width="200dp"
+            android:layout_height="170dp"
+            android:background="@color/white"
+            android:layout_marginLeft="200dp"
+            android:layout_marginTop="280dp"
+            android:src="@drawable/bangundatar" />
+
+        <ImageButton
+            android:id="@+id/buttonbilanganbulat"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:background="@color/white"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="500dp"
+            android:src="@drawable/icon" />
+
+        <ImageButton
+            android:id="@+id/buttonfpb"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:background="@color/white"
+            android:layout_marginLeft="205dp"
+            android:layout_marginTop="500dp"
+            android:src="@drawable/fpb" />
+    </RelativeLayout>
+
+</LinearLayout>
